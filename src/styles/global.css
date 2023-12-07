@@ -81,3 +81,9 @@ h1 {
   }
 
 }
+
+.skill {
+  color: navy;
+  font-weight: bold;
+  text-transform: uppercase;
+}
